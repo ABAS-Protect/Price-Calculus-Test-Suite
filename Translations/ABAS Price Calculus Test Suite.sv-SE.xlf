@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="ABAS Price Calculus Test Suite.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3118065935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price Worksheet Test Runner</source>
+          <target>Testkörare för prisarbetsblad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Price Worksheet Test Runner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3118065935 - Action 3415086335 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run the test suites</source>
+          <target>Kör testsviterna</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Price Worksheet Test Runner - Action RunAllTests - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3118065935 - Action 3415086335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run All Tests</source>
+          <target>Kör alla tester</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Price Worksheet Test Runner - Action RunAllTests - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
